@@ -3,8 +3,8 @@
 **Author:** Asia Warden  
 **Date:** August 2025  
 **File** 
-[Krispy Kreme SWOT Analysis Part 1](KrispyKreme_SWOT_Analysis_Part1.docx)
-[Krispy Kreme SWOT Analysis Part 2](KrispyKreme_SWOT_Analysis_Part2.docx)
+[Krispy Kreme SWOT Analysis Part 1](KrispyKreme_SWOT_Analysis_Part1.pdf)
+[Krispy Kreme SWOT Analysis Part 2](KrispyKreme_SWOT_Analysis_Part2.pdf)
 
 ---
 
