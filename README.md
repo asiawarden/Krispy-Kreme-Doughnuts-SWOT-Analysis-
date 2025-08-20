@@ -2,7 +2,8 @@
 
 **Author:** Asia Warden  
 **Date:** August 2025  
-**File** - [Part 1](KrispyKreme_SWOT_Analysis_Part1.pdf)  
+**File** 
+[Part 1](KrispyKreme_SWOT_Analysis_Part1.pdf)  
 - [Part 2](KrispyKreme_SWOT_Analysis_Part2.pdf)
 
 ---
